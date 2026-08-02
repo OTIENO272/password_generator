@@ -5,6 +5,7 @@ import secrets
 import string
 
 def generate_password(length=12 ):
+
 	alphabet = (
 		string.ascii_letters  +
 		string.digits +
