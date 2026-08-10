@@ -1,5 +1,5 @@
 
- 
+
 #Generate a password with secrets and string
 
 import secrets 
